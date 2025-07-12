@@ -14,7 +14,7 @@ It is designed for mobile app/API/web pentesting, auditing, and research, with s
 
 - **Full HTTP/HTTPS interception** for Android, iOS, web, and any client supporting a proxy
 - **Daily rotating logs** with automatic file name increments
-- **Logs in both human-readable (`.log`) and structured JSON (`.json`) formats
+- **Logs** in both human-readable (`.log`) and structured JSON (`.json`) formats
 - **Real-time colored console summary** for quick monitoring
 - **Sensitive data redaction** (headers & body patterns)
 - **Request/response filtering** by host, HTTP method, content type, or keywords
